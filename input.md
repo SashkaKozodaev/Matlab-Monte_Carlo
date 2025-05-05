@@ -21,7 +21,7 @@
 > X X X X
 >
 > H = −t (ai ai+1 +ai+1ai)+ U ni +V nini+1 −µ ni (1)
->
+> H = -t\sum_i(a_i^+a_{i+1} + a_{i+1}^+a_i) + U\sum_in_i^2 + V\sum_i n_in_{i+1} - \mu\sum_in_i
 > i i i i
 
 Здесь первый член описывает перескоки частиц на соседние узлы с
